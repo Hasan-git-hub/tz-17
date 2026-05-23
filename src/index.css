@@ -1,0 +1,10 @@
+@import "tailwindcss";
+.body {
+  transition: all;
+  background: linear-gradient(
+    78deg,
+    rgb(163, 252, 163),
+    rgba(187, 90, 90, 0.664),
+    rgba(128, 128, 212, 0.432)
+  );
+}
